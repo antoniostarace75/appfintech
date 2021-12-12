@@ -63,6 +63,7 @@ import { Carte } from "../models/card_form";
         color: #f44336;
         width: 100%;
       }
+
     `
 
   ],
